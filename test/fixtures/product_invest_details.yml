@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  product_invest: one
+  name: MyString
+  producttype: 
+
+two:
+  product_invest: two
+  name: MyString
+  producttype: 

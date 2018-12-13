@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: just-alone
+  api_key: '511799528837246'
+  api_secret: ESLg-ocD9hwyR9XUA13mq1r_txw
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: just-alone
+  api_key: '511799528837246'
+  api_secret: ESLg-ocD9hwyR9XUA13mq1r_txw
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: just-alone
+  api_key: '511799528837246'
+  api_secret: ESLg-ocD9hwyR9XUA13mq1r_txw
+  enhance_image_tag: true
+  static_image_support: false
